@@ -1,0 +1,1 @@
+from .tinycrud import TinyCRUD
